@@ -1,6 +1,6 @@
 ### Hi  👋, I’m Maisam Nasser
-💻 Computer System Engineering Student @ Birzeit University.
-📫 How to reach me: .maysamkarajah11@gmail.com..
+
+
 
 
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 💻 Computer System Engineering Student @ Birzeit University.
+📫 How to reach me: .maysamkarajah11@gmail.com..
