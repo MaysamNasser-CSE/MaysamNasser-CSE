@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 💻 Computer System Engineering Student @ Birzeit University.
 📫 How to reach me: .maysamkarajah11@gmail.com..
+Programming Languages : python,java,c
